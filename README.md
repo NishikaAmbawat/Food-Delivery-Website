@@ -4,7 +4,7 @@
 
 A modern, responsive food delivery web application built to simulate real-world online food ordering workflows with a clean UI and smooth user experience.
 
-🚀 Features
+##🚀 Features
 
 Browse restaurants and food items
 
@@ -18,7 +18,7 @@ Responsive, mobile-first design
 
 Fast load time and optimized UI
 
-🛠 Tech Stack
+## 🛠 Tech Stack
 
 Frontend: React.js
 
@@ -28,7 +28,7 @@ Data Handling: REST APIs
 
 State Management: React Hooks
 
-📂 Project Structure
+##📂 Project Structure
 Food-Delivery-Website/
 │
 ├── public/
@@ -44,22 +44,19 @@ Food-Delivery-Website/
 ├── package.json
 └── README.md
 
-⚙️ Installation & Setup
+##⚙️ Installation & Setup
 
 Clone the repository
 
 git clone https://github.com/NishikaAmbawat/Food-Delivery-Website.git
 
-
 Navigate to the project folder
 
 cd Food-Delivery-Website
 
-
 Install dependencies
 
 npm install
-
 
 Run the application
 
@@ -69,7 +66,7 @@ npm start
 The app will run on:
 http://localhost:3000
 
-🎯 Learning Outcomes
+##🎯 Learning Outcomes
 
 Hands-on experience with React component architecture
 
@@ -79,7 +76,7 @@ Built responsive layouts using Tailwind CSS
 
 Strengthened frontend optimization and UI performance skills
 
-🔮 Future Enhancements
+##🔮 Future Enhancements
 
 User authentication (Login / Signup)
 
@@ -89,7 +86,7 @@ Order tracking system
 
 Backend integration with database
 
-👩‍💻 Author
+##👩‍💻 Author
 
 Nishika Ambawat
 GitHub: @NishikaAmbawat
